@@ -1,0 +1,10 @@
+{
+  "name": "hyper-random-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "c6h4clch3 c6h4clch3@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.19.1"
+  }
+}
