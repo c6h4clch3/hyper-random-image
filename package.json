@@ -1,7 +1,14 @@
 {
   "name": "hyper-random-image",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
+  "description": "change background-image on every activation of hyper.js",
+  "keywords": [
+    "hyper",
+    "hyper.js",
+    "terminal",
+    "background"
+  ],
   "author": "c6h4clch3 c6h4clch3@gmail.com",
   "license": "MIT",
   "dependencies": {

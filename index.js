@@ -25,7 +25,7 @@ function getFileNames(dir) {
   try {
     files = fs.readdirSync(targetDir);
   } catch (_) {
-    targetDir = path(__dirname + '/default');
+    targetDir = path(__dirname);
     files = fs.readdirSync(targetDir);
   }
   return files.map(file => targetDir + '/' + file).filter(file => {
