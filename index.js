@@ -2,6 +2,7 @@
 /**
  * 特定ディレクトリ以下のファイルを背景画像として利用する
  */
+/*global __dirname*/
 const fs = require('fs');
 const path = require('path');
 const process = require('process');
